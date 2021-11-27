@@ -1,0 +1,43 @@
+body {
+    background: 	#00ffff url('i-SFoDQKGh2nk-unsplash.jpg');
+    background-position: 5em 10em;
+    color: rgb(124, 84, 103);
+    text-align: center;
+    background-position-x: 40%;
+    background-position-y: 40%;
+}
+
+label {
+    color: #0addaf;
+    font-weight: bold;
+    display:block;
+    margin-bottom: 1em;
+    font-size: 1.2em;
+}
+
+input[type=file] {
+    border: 1px solid #707070;
+    width: 50%;
+    padding: 1em;
+    box-sizing: border-box ;
+    border-radius: .5em;
+    margin-top: 1.2em;
+}
+
+input[type=text] {
+    border: 1px solid #707070;
+    width: 25%;
+    padding: 1em;
+    box-sizing: border-box ;
+    border-radius: .5em;
+    margin-top: 1.2em;
+}
+
+button {
+    border: 1px solid #707070;
+    width: 50%;
+    padding: 1em;
+    box-sizing: border-box ;
+    border-radius: .5em;
+    margin-top: 1.2em;
+}
